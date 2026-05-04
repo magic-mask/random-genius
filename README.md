@@ -1,0 +1,2 @@
+# random-genius
+idea repo
